@@ -9,4 +9,7 @@
 * \> composer install
 * \> cp .env.example .env
 * 修改 .env 內容
+* \> php artisan vender:publish "JeroenNoten\LaravelAdminLte\ServiceProvider"
+* \> composer dump-autoload
+
 
